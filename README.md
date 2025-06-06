@@ -1,6 +1,7 @@
 ## Dynamics of Wound Closure in Active Nematic Epithelia: Mathematica Code
 
-This is the repository storing the Mathematica notebooks required to perform calculations detailed here <a href=""></a>.
+This is the repository storing the Mathematica notebooks required to perform calculations detailed <a href=" 	
+https://doi.org/10.48550/arXiv.2506.04922">here</a>.
 
 Users wishing to reproduce calculations and results from scratch should run the notebooks in the following order:
 
